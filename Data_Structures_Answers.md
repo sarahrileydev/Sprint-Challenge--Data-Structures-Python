@@ -1,15 +1,15 @@
 Add your answers to the questions below.
 
-1. What is the runtime complexity of your ring buffer's `append` method?
+1. What is the runtime complexity of your ring buffer's `append` method? 0(1)
 
-2. What is the space complexity of your ring buffer's `append` function?
+2. What is the space complexity of your ring buffer's `append` function? 0(1)
 
-3. What is the runtime complexity of your ring buffer's `get` method?
+3. What is the runtime complexity of your ring buffer's `get` method? O(n)
 
-4. What is the space complexity of your ring buffer's `get` method?
+4. What is the space complexity of your ring buffer's `get` method? O(n)
 
 
-5. What is the runtime complexity of the provided code in `names.py`?
+5. What is the runtime complexity of the provided code in `names.py`? 
 
 6. What is the space complexity of the provided code in `names.py`?
 
